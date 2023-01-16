@@ -1,0 +1,1 @@
+<div>Une cagnotte</div>
